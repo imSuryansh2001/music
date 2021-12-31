@@ -1,0 +1,132 @@
+.bi-music-note-beamed {
+    color: #ffc107;
+}
+
+.navBar {
+    background-image: linear-gradient(to right, rgb(54, 2, 54), rgb(3, 3, 68), black);
+    border-bottom: 0.1rem solid #ffc107;
+}
+
+.nc {
+    color: #ffc107;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.nc:hover {
+    color: white;
+}
+
+.nc-1 {
+    background-image: linear-gradient(to right, rgb(54, 2, 54), rgb(3, 3, 68), black);
+    color: #ffc107;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.nc-1:hover {
+    color: white;
+}
+
+.bi-gear-fill {
+    color: #ffc107;
+    font-size: 1.5rem;
+}
+
+.bi-music-note-list {
+    color: blue
+}
+
+.bi-headphones {
+    color: red;
+}
+
+.bi-boombox-fill {
+    color: green;
+}
+
+.bi-speaker-fill {
+    color: purple;
+}
+
+.bi-earbuds {
+    color: rgb(117, 80, 7);
+}
+
+.beats-tuning {
+    color: rgb(117, 80, 7);
+}
+
+.contact-box {
+    background-color: rgb(205, 205, 218);
+}
+
+.bi-facebook {
+    font-size: 1.5rem;
+}
+
+.bi-facebook:hover {
+    color: #1d5ddd;
+}
+
+.bi-instagram {
+    font-size: 1.5rem;
+}
+
+.bi-instagram:hover {
+    color: #8a3ab9;
+}
+
+.bi-twitter {
+    font-size: 1.5rem;
+}
+
+.bi-twitter:hover {
+    color: #00acee;
+}
+
+.bi-github {
+    font-size: 1.5rem;
+}
+
+.bi-github:hover {
+    color: #ffda48;
+}
+
+.bi-youtube {
+    font-size: 1.5rem;
+}
+
+.bi-youtube:hover {
+    color: #c4302b;
+}
+
+.fa-google-play {
+    font-size: 1.5rem;
+}
+
+.fa-google-play:hover {
+    color: #48FF48;
+}
+
+.fa-app-store-ios {
+    font-size: 1.5rem;
+}
+
+.fa-app-store-ios:hover {
+    color: rgb(138, 124, 124);
+}
+
+.rights {
+    background-color: rgb(201, 201, 201);
+    color: black;
+}
+
+#contact-footer {
+    scroll-behavior: smooth;
+
+}
+
+#homePage {
+    scroll-behavior: smooth;
+}
